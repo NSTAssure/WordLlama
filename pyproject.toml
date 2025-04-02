@@ -15,7 +15,7 @@ dependencies = [
   "safetensors",
   "tokenizers",
   "toml",
-  "pydantic>=2",
+  "pydantic<2",
   "requests"
 ]
 
