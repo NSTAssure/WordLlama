@@ -1,3 +1,5 @@
+Fork of WordLlama Embeddings to maintain compatibility with Pydantic v1
+---
 # WordLlama 📝🦙
 
 **WordLlama** is a fast, lightweight NLP toolkit designed for tasks like fuzzy deduplication, similarity computation, ranking, clustering, and semantic text splitting. It operates with minimal inference-time dependencies and is optimized for CPU hardware, making it suitable for deployment in resource-constrained environments.
